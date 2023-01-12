@@ -1,0 +1,12 @@
+{
+  "prettier/prettier": [
+    "error",
+    {
+      "printWidth": 80,
+      "singleQuote": false,
+      "endOfLine": "crlf",
+      "arrowParens": "always",
+      "trailingComma": "all"
+    }
+  ]
+}

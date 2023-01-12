@@ -1,0 +1,52 @@
+{
+  "name": "socraque_web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@date-io/date-fns": "^2.16.0",
+    "@date-io/dayjs": "^2.16.0",
+    "@mui/icons-material": "^5.10.15",
+    "@mui/material": "^5.10.15",
+    "@mui/x-date-pickers": "^5.0.9",
+    "@react-google-maps/api": "^2.17.0",
+    "@tanstack/react-query": "^4.18.0",
+    "@types/jquery": "^3.5.14",
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "axios": "^1.2.0",
+    "brazilian-values": "^0.12.0",
+    "dayjs": "^1.11.6",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.5",
+    "formik": "^2.2.9",
+    "jquery": "^3.6.1",
+    "leaflet": "^1.9.3",
+    "moment": "^2.29.4",
+    "next": "13.0.5",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.2.0",
+    "react-glider": "^4.0.2",
+    "react-leaflet": "^4.2.0",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-number-format": "^5.1.2",
+    "react-player": "^2.11.0",
+    "react-router-dom": "^6.4.3",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^8.4.5",
+    "typescript": "4.9.3"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.7.11",
+    "@types/react-leaflet": "^2.8.2",
+    "@types/react-slick": "^0.23.10"
+  }
+}
